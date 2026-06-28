@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy<2.0.0
+numpy
 yfinance
-pandas-ta==0.3.14b0
+pandas-ta
 plotly
 scipy
 requests
