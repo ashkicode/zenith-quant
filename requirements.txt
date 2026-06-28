@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy<2.0.0
+numpy
 yfinance
-pandas-ta
+git+https://github.com/twopirllc/pandas-ta.git@development
 plotly
 scipy
 requests
